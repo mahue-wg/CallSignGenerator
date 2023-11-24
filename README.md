@@ -1,2 +1,2 @@
 # CallSignGenerator
-Check available austrian callsigns for amateur using gTTS text to speech.
+Check available Austrian callsigns against the reserved Austrian amateur radio callsigns using gTTS (Google Text-to-Speech) for text-to-speech functionality.
